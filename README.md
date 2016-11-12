@@ -26,3 +26,6 @@ setInterval(insert, 100);
 Paste all the code into the console and press enter. 
 You may get a errors(they will go away), ignore them and press "Let's Go".
 The answer should automatically be filled in, all you have to do is press space then enter for every term.</p>
+
+<h4>Other Bots: </h4>
+<p>Match Bot: https://github.com/LightningJimmy/QuizletMatchBot</p>
